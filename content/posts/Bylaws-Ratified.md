@@ -1,6 +1,6 @@
 +++
 date = '2025-02-11T16:44:08-08:00'
-draft = true
+draft = false
 title = 'Bylaws Ratified'
 +++
 The Democratic Socialists of Nanaimo ratified their bylaws last Wednesday the 5th of February, in an all-hands meeting.
