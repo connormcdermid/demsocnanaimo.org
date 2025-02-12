@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Democratic Socialists of Nanaimo</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Democratic Socialists of Nanaimo</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 11 Feb 2025 16:44:08 -0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bylaws Ratified</title>
+      <link>http://localhost:1313/posts/bylaws-ratified/</link>
+      <pubDate>Tue, 11 Feb 2025 16:44:08 -0800</pubDate>
+      <guid>http://localhost:1313/posts/bylaws-ratified/</guid>
+      <description>&lt;p&gt;The Democratic Socialists of Nanaimo ratified their bylaws last Wednesday the 5th of February, in an all-hands meeting.&#xA;The newly-ratified bylaws can be found &lt;a href=&#34;&#34;&gt;here&lt;/a&gt; and the meeting minutes can be found &lt;a href=&#34;&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;In the meeting, an interim steering committee of 7 members was elected.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
